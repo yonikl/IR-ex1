@@ -1,0 +1,10 @@
+pandas                     # For data manipulation and handling Excel/CSV files
+openpyxl                   # For reading .xlsx files with pandas
+nltk                       # For tokenization, stopword removal, and lemmatization
+rank-bm25                  # For implementing BM25 ranking algorithm
+scipy                      # For sparse matrix operations (e.g., CSR matrices)
+numpy                      # For numerical computations and array manipulations
+gensim                     # For Word2Vec and Doc2Vec embeddings
+transformers               # For BERT model and tokenization
+torch                      # For PyTorch-based models like BERT
+sentence-transformers      # For generating Sentence-BERT embeddings
